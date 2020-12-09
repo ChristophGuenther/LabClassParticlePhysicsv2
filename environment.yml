@@ -1,0 +1,5 @@
+name: base
+channels:
+  - conda-forge
+dependencies:
+  - bokeh==2.0.1
